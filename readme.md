@@ -1,4 +1,3 @@
-
 # WikiArt Scraper
 
 This repository contains scrapers developed for 
